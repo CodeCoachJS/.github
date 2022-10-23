@@ -24,21 +24,21 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 ---
 
-Intro to props and hooks https://github.com/CodeCoachJS/react_pro_form
+[Intro to props and hooks](https://github.com/CodeCoachJS/react_pro_form)
 
-Make a simple profile card with ReactJS https://github.com/CodeCoachJS/js_pro_profile_cards
+[Make a simple profile card with ReactJS](https://github.com/CodeCoachJS/js_pro_profile_cards)
 
-Fix a broken app using context API https://github.com/CodeCoachJS/react_fix_me
+[Fix a broken app using context API](https://github.com/CodeCoachJS/react_fix_me)
 
-Stock tracker app needs fixing https://github.com/CodeCoachJS/stock_app
+[Stock tracker app needs fixing](https://github.com/CodeCoachJS/stock_app)
 
-Ecom app with Redux needs fixing https://github.com/CodeCoachJS/shopping_cart_with_redux
+[Ecom app with Redux needs fixing](https://github.com/CodeCoachJS/shopping_cart_with_redux)
 
-React with Typescript https://github.com/CodeCoachJS/js_pro_e-com_with_typescript
+[React with Typescript](https://github.com/CodeCoachJS/js_pro_e-com_with_typescript)
 
-NextJS with GraphQL and Github API https://github.com/CodeCoachJS/js_pro_next_js_graphql
+[NextJS with GraphQL and Github API](https://github.com/CodeCoachJS/js_pro_next_js_graphql)
 
-Refactor a React app to increase performance using useCallback and useMemo https://github.com/CodeCoachJS/js_pro_refactor_me
+[Refactor a React app to increase performance using useCallback and useMemo](https://github.com/CodeCoachJS/js_pro_refactor_me)
 
 ---
 
@@ -46,9 +46,9 @@ Refactor a React app to increase performance using useCallback and useMemo https
 
 ---
 
-Webpack config needs fixing https://github.com/CodeCoachJS/js_pro_webpack_intro
+[Webpack config needs fixing](https://github.com/CodeCoachJS/js_pro_webpack_intro)
 
-Ecom app with Redux needs fixing https://github.com/CodeCoachJS/shopping_cart_with_redux
+[Ecom app with Redux needs fixing](https://github.com/CodeCoachJS/shopping_cart_with_redux)
 
 ---
 
@@ -56,7 +56,7 @@ Ecom app with Redux needs fixing https://github.com/CodeCoachJS/shopping_cart_wi
 
 ---
 
-https://github.com/CodeCoachJS/main_course
+[JS fundamentals and beyond](https://github.com/CodeCoachJS/main_course)
 
 ---
 
@@ -64,9 +64,9 @@ https://github.com/CodeCoachJS/main_course
 
 ---
 
-Intro to react-testing-library https://github.com/CodeCoachJS/js_pro_react_testing_intro
+[Intro to react-testing-library](https://github.com/CodeCoachJS/js_pro_react_testing_intro)
 
-Add tests to an app https://github.com/CodeCoachJS/user_table_needs_tests
+[Add tests to an app](https://github.com/CodeCoachJS/user_table_needs_tests)
 
 ---
 
@@ -74,17 +74,17 @@ Add tests to an app https://github.com/CodeCoachJS/user_table_needs_tests
 
 ---
 
-Big O Intro https://github.com/CodeCoachJS/main_course/tree/master/src/big_o
+[Big O Intro](https://github.com/CodeCoachJS/main_course/tree/master/src/big_o)
 
-Stacks and Queues https://github.com/CodeCoachJS/main_course/tree/master/src/stacks_and_queues
+[Stacks and Queues](https://github.com/CodeCoachJS/main_course/tree/master/src/stacks_and_queues)
 
-Sorting and searching https://github.com/CodeCoachJS/main_course/tree/master/src/sorting_searching_algos
+[Sorting and searching](https://github.com/CodeCoachJS/main_course/tree/master/src/sorting_searching_algos)
 
-Trees and Tries https://github.com/CodeCoachJS/main_course/tree/master/src/trees_and_tries
+[Trees and Tries](https://github.com/CodeCoachJS/main_course/tree/master/src/trees_and_tries)
 
-Recursion https://github.com/CodeCoachJS/main_course/tree/master/src/recursion
+[Recursion](https://github.com/CodeCoachJS/main_course/tree/master/src/recursion)
 
-Graphs https://github.com/CodeCoachJS/main_course/tree/master/src/graphs
+[Graphs](https://github.com/CodeCoachJS/main_course/tree/master/src/graphs)
 
 ---
 
@@ -92,15 +92,17 @@ Graphs https://github.com/CodeCoachJS/main_course/tree/master/src/graphs
 
 ---
 
-Using JIRA https://www.loom.com/share/cc79ef5ace3040f695d94d5643fc89da
+[Using JIRA](https://www.loom.com/share/cc79ef5ace3040f695d94d5643fc89da)
 
-How to estimate a feature https://www.loom.com/share/4f9b512ca95e4cb8a8bd7f70cbbdd8c7
+[How to estimate a feature](https://www.loom.com/share/4f9b512ca95e4cb8a8bd7f70cbbdd8c7)
 
-Code Reviews https://docs.google.com/document/d/1-SVdTczDLEStjqhUg7EBT_IBvxsjPNTfWMYipSUsTwY/edit?usp=sharing && https://www.loom.com/share/48f5ed99be604c2aa2aaa6b269d30670
+[Code Reviews](https://docs.google.com/document/d/1-SVdTczDLEStjqhUg7EBT_IBvxsjPNTfWMYipSUsTwY/edit?usp=sharing)
 
-Exploring a new codebase https://www.loom.com/share/fd3d166c03a543b58bb0179a3010ae46
+[Code Reviews video](https://www.loom.com/share/48f5ed99be604c2aa2aaa6b269d30670)
 
-Github basics https://www.loom.com/share/9ac01cffb6834ecea276d42619d704cf
+[Exploring a new codebase](https://www.loom.com/share/fd3d166c03a543b58bb0179a3010ae46)
+
+[Github basics](https://www.loom.com/share/9ac01cffb6834ecea276d42619d704cf)
 
 ---
 
@@ -108,7 +110,7 @@ Github basics https://www.loom.com/share/9ac01cffb6834ecea276d42619d704cf
 
 ---
 
-NPM library starter kit https://github.com/CodeCoachJS/js_pro_npm_library [Beta]
+[NPM library starter kit](https://github.com/CodeCoachJS/js_pro_npm_library) [COMING SOON]
 
 ---
 
@@ -116,6 +118,6 @@ NPM library starter kit https://github.com/CodeCoachJS/js_pro_npm_library [Beta]
 
 ---
 
-Debugging JS apps https://www.loom.com/share/e1fd3ef1d934408893eb5a35a0ead560
+[Debugging JS apps](https://www.loom.com/share/e1fd3ef1d934408893eb5a35a0ead560)
 
-Debug a Github Actions pipeline https://github.com/CodeCoachJS/node_express_starter/tree/something_is_wrong
+[Debug a Github Actions pipeline](https://github.com/CodeCoachJS/node_express_starter/tree/something_is_wrong)
