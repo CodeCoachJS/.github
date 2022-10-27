@@ -56,6 +56,8 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 ---
 
+[Form Challenge](https://docs.google.com/document/d/1jXUFr1fOmlnTAkKBabuawyeCoWz0MWCh-vXkgP3gA-Q/edit?usp=sharing)
+
 [JS fundamentals and beyond](https://github.com/CodeCoachJS/main_course)
 
 ---
@@ -100,6 +102,8 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 [Code Reviews video](https://www.loom.com/share/48f5ed99be604c2aa2aaa6b269d30670)
 
+[Code Review Challenge](https://docs.google.com/document/d/1WA5f5tbVt3gsEBQm-blAnp5f89rh7iCnx02cpKVrKtM/edit?usp=sharing)
+
 [Exploring a new codebase](https://www.loom.com/share/fd3d166c03a543b58bb0179a3010ae46)
 
 [Github basics](https://www.loom.com/share/9ac01cffb6834ecea276d42619d704cf)
@@ -121,3 +125,23 @@ If you find an issue or have a suggestion to improve a challenge please email me
 [Debugging JS apps](https://www.loom.com/share/e1fd3ef1d934408893eb5a35a0ead560)
 
 [Debug a Github Actions pipeline](https://github.com/CodeCoachJS/node_express_starter/tree/something_is_wrong)
+
+---
+
+### LinkedIn and Career Corner
+
+---
+
+[LinkedIn Cheat Sheet](https://docs.google.com/document/u/0/d/1xsCCWGACPBBNett8yat4Ldq2zUKSCRhGHTsXfGQwcZo/edit)
+
+[What Should I Post On LinkedIn](https://docs.google.com/document/u/0/d/10K76aP0InsVZ-MDmN8CJQ9VWdyHXLPbImENYXNx6vs4/edit)
+
+[LinkedIn Optimization](https://www.loom.com/share/9b4e00766c014e65a74a30837c50a021)
+
+[Job Searching with LinkedIn](https://www.loom.com/share/585f2df34c5547a081908d303e313956)
+
+[Resume Template [No Experience]](https://docs.google.com/document/u/0/d/1CIr2wiyQZerLT8Xlv5Be-ifOFqAQnQdgVZro22kFIsg/edit)
+
+[Last Minute Interview Prep](https://docs.google.com/document/d/1D927NyIfvuoT01IS3phdvvNK--b514ntv90lVt06jh4/edit?usp=sharing)
+
+[Tell me about a technical project interview question](https://docs.google.com/document/d/1-stR7DNJ1MlM5OJ8ahQX6J76vfDz-Yesq1nB-O4XAQc/edit?usp=sharing)
