@@ -114,13 +114,15 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 ---
 
-[NPM library starter kit](https://github.com/CodeCoachJS/js_pro_npm_library) [COMING SOON]
+[NPM library starter kit](https://github.com/CodeCoachJS/js_pro_npm_library)
 
 ---
 
 ### Debug Like a Pro
 
 ---
+
+[Debugging Article](https://docs.google.com/document/d/1SzJDWSYoct13JdcHPbtx90Cs1aJ4C1SmNXcXUHQs6zU/edit?usp=sharing)
 
 [Debugging JS apps](https://www.loom.com/share/e1fd3ef1d934408893eb5a35a0ead560)
 
