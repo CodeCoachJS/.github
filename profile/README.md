@@ -42,7 +42,7 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 [React with Typescript](https://github.com/CodeCoachJS/js_pro_e-com_with_typescript)
 
----
+[Create a custom hook](https://github.com/CodeCoachJS/js_pro_custom_hooks)
 
 ### Redux and Webpack
 
