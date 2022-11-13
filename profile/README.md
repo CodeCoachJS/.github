@@ -34,8 +34,6 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 [Ecom app with Redux needs fixing](https://github.com/CodeCoachJS/shopping_cart_with_redux)
 
-[React with Typescript](https://github.com/CodeCoachJS/js_pro_e-com_with_typescript)
-
 [NextJS with GraphQL and Github API](https://github.com/CodeCoachJS/js_pro_next_js_graphql)
 
 [Refactor a React app to increase performance using useCallback and useMemo](https://github.com/CodeCoachJS/js_pro_refactor_me)
