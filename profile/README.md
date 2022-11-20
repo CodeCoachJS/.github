@@ -88,6 +88,8 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 [Graphs](https://github.com/CodeCoachJS/main_course/tree/master/src/graphs)
 
+[System Design CheatSheet](https://docs.google.com/document/d/1K72XQTCx9fHlweCwjYzK4IgQUmkarqqu_crQ3JrNnDg/edit?usp=sharing)
+
 ---
 
 ### First Day on the Job
@@ -98,7 +100,7 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 [How to estimate a feature](https://www.loom.com/share/4f9b512ca95e4cb8a8bd7f70cbbdd8c7)
 
-[Code Reviews](https://docs.google.com/document/d/1-SVdTczDLEStjqhUg7EBT_IBvxsjPNTfWMYipSUsTwY/edit?usp=sharing)
+[Code Reviews Challenge](https://docs.google.com/document/d/1-SVdTczDLEStjqhUg7EBT_IBvxsjPNTfWMYipSUsTwY/edit?usp=sharing)
 
 [Code Reviews video](https://www.loom.com/share/48f5ed99be604c2aa2aaa6b269d30670)
 
