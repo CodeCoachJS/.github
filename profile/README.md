@@ -120,6 +120,14 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 ---
 
+### Side Project Template
+
+---
+
+[Side Project Brainstorm Guide](https://docs.google.com/document/d/1H508NN2HCnnKmkRMgCg3pj_mXr3i8x3Np0jS6w4xzCs/edit?usp=sharing)
+
+---
+
 ### Debug Like a Pro
 
 ---
