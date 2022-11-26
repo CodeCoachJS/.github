@@ -108,6 +108,8 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 [Using JIRA](https://www.loom.com/share/cc79ef5ace3040f695d94d5643fc89da)
 
+[Good Standups vs Bad StandUps](https://www.loom.com/share/f198c0956ed94e99b99a6c6e59f43acb)
+
 [How to estimate a feature](https://www.loom.com/share/4f9b512ca95e4cb8a8bd7f70cbbdd8c7)
 
 [Code Reviews video](https://www.loom.com/share/48f5ed99be604c2aa2aaa6b269d30670)
