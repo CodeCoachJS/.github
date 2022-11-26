@@ -42,6 +42,8 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 [Create a custom hook](https://github.com/CodeCoachJS/js_pro_custom_hooks)
 
+---
+
 ### Redux and Webpack
 
 ---
@@ -100,7 +102,7 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 [How to estimate a feature](https://www.loom.com/share/4f9b512ca95e4cb8a8bd7f70cbbdd8c7)
 
-[Code Reviews Challenge](https://docs.google.com/document/d/1-SVdTczDLEStjqhUg7EBT_IBvxsjPNTfWMYipSUsTwY/edit?usp=sharing)
+[Code Reviews Challenge](https://docs.google.com/document/d/1WA5f5tbVt3gsEBQm-blAnp5f89rh7iCnx02cpKVrKtM/edit?usp=sharing)
 
 [Code Reviews video](https://www.loom.com/share/48f5ed99be604c2aa2aaa6b269d30670)
 
