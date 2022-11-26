@@ -4,7 +4,7 @@ Below you'll find a series of challenges, videos and documents to help you becom
 
 So what does that mean?
 
-There are no answer sheets here or paint by numbers assignments. What you will find are apps with broken or incomplete features that you will need to build through a combination of research, watching videos and reaching out via Slack!
+There are no answer sheets here or watch and type tutorials. What you will find are apps with broken or incomplete features that you will need to build through a combination of research, watching videos and reaching out via Slack!
 
 **You will find instructions in the README.md** files of each of these projects as well as additonal challenges like recording a video of a difficult concept. You'd be surprised how much you will learn from recording yourself attempting to explain something you think you know 😉.
 
@@ -17,6 +17,24 @@ If you find an issue or have a suggestion to improve a challenge please email me
 ---
 
 ## Learning Tracks ⬇️
+
+---
+
+### Javascript Fundamentals
+
+---
+
+[Form Challenge](https://docs.google.com/document/d/1jXUFr1fOmlnTAkKBabuawyeCoWz0MWCh-vXkgP3gA-Q/edit?usp=sharing)
+
+[JS fundamentals and beyond](https://github.com/CodeCoachJS/main_course) (This is where you probably want to start)
+
+---
+
+### Core Web Vitals
+
+---
+
+[Fix a slow ass site](https://github.com/CodeCoachJS/js_pro_slow_ass_site)
 
 ---
 
@@ -51,16 +69,6 @@ If you find an issue or have a suggestion to improve a challenge please email me
 [Webpack config needs fixing](https://github.com/CodeCoachJS/js_pro_webpack_intro)
 
 [Ecom app with Redux needs fixing](https://github.com/CodeCoachJS/shopping_cart_with_redux)
-
----
-
-### Javascript Fundamentals
-
----
-
-[Form Challenge](https://docs.google.com/document/d/1jXUFr1fOmlnTAkKBabuawyeCoWz0MWCh-vXkgP3gA-Q/edit?usp=sharing)
-
-[JS fundamentals and beyond](https://github.com/CodeCoachJS/main_course)
 
 ---
 
@@ -102,13 +110,11 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 [How to estimate a feature](https://www.loom.com/share/4f9b512ca95e4cb8a8bd7f70cbbdd8c7)
 
-[Code Reviews Challenge](https://docs.google.com/document/d/1WA5f5tbVt3gsEBQm-blAnp5f89rh7iCnx02cpKVrKtM/edit?usp=sharing)
-
 [Code Reviews video](https://www.loom.com/share/48f5ed99be604c2aa2aaa6b269d30670)
 
-[Code Review Challenge](https://docs.google.com/document/d/1WA5f5tbVt3gsEBQm-blAnp5f89rh7iCnx02cpKVrKtM/edit?usp=sharing)
+[Code Reviews Challenge](https://docs.google.com/document/d/1WA5f5tbVt3gsEBQm-blAnp5f89rh7iCnx02cpKVrKtM/edit?usp=sharing)
 
-[Exploring a new codebase](https://www.loom.com/share/fd3d166c03a543b58bb0179a3010ae46)
+[Exploring a new codebase](https://github.com/CodeCoachJS/js_pro_kyle_simspon_app)
 
 [Github basics](https://www.loom.com/share/9ac01cffb6834ecea276d42619d704cf)
 
