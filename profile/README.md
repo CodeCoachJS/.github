@@ -32,6 +32,8 @@ https://www.loom.com/share/5c8c6b6bc48d41ab953b8ece05cda08c
 
 [Form Challenge](https://docs.google.com/document/d/1jXUFr1fOmlnTAkKBabuawyeCoWz0MWCh-vXkgP3gA-Q/edit?usp=sharing)
 
+[Vanilla JS Ecom Challenge](https://docs.google.com/document/d/1gchMW_M0xg8jwJJVL71I1H2IQMghuvvZgiKy9ssrSqg/edit?usp=sharing)
+
 [JS fundamentals and beyond](https://github.com/CodeCoachJS/main_course) (This is where you probably want to start)
 
 ---
