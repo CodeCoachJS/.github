@@ -130,11 +130,13 @@ https://www.loom.com/share/5c8c6b6bc48d41ab953b8ece05cda08c
 
 ---
 
-### Create Your Own Library
+### Create Your Own Library / NPM Challenges
 
 ---
 
 [NPM library starter kit](https://github.com/CodeCoachJS/js_pro_npm_library)
+
+[NPM package breaks production pipeline!](https://github.com/CodeCoachJS/js_pro_npm_front_end_app/tree/npm_gone_wrong)
 
 ---
 
