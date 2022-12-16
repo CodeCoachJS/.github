@@ -124,6 +124,8 @@ https://www.loom.com/share/5c8c6b6bc48d41ab953b8ece05cda08c
 
 [Code Reviews Challenge](https://docs.google.com/document/d/1WA5f5tbVt3gsEBQm-blAnp5f89rh7iCnx02cpKVrKtM/edit?usp=sharing)
 
+[Code Reviews Checklist](https://docs.google.com/document/d/1-SVdTczDLEStjqhUg7EBT_IBvxsjPNTfWMYipSUsTwY/edit?usp=sharing)
+
 [Exploring a new codebase](https://github.com/CodeCoachJS/js_pro_kyle_simspon_app)
 
 [Github basics](https://www.loom.com/share/9ac01cffb6834ecea276d42619d704cf)
