@@ -64,8 +64,6 @@ https://www.loom.com/share/5c8c6b6bc48d41ab953b8ece05cda08c
 
 [Refactor a React app to increase performance using useCallback and useMemo](https://github.com/CodeCoachJS/js_pro_refactor_me)
 
-[React with Typescript](https://github.com/CodeCoachJS/js_pro_e-com_with_typescript)
-
 [Create a custom hook](https://github.com/CodeCoachJS/js_pro_custom_hooks)
 
 ---
@@ -110,25 +108,13 @@ https://www.loom.com/share/5c8c6b6bc48d41ab953b8ece05cda08c
 
 ---
 
-### First Day on the Job
+## Typescript
 
 ---
 
-[Using JIRA](https://www.loom.com/share/cc79ef5ace3040f695d94d5643fc89da)
+[Timeseries API](https://github.com/CodeCoachJS/js_pro_backend_timeseries_app.git)
 
-[Good Standups vs Bad StandUps](https://www.loom.com/share/f198c0956ed94e99b99a6c6e59f43acb)
-
-[How to estimate a feature](https://www.loom.com/share/4f9b512ca95e4cb8a8bd7f70cbbdd8c7)
-
-[Code Reviews video](https://www.loom.com/share/48f5ed99be604c2aa2aaa6b269d30670)
-
-[Code Reviews Challenge](https://docs.google.com/document/d/1WA5f5tbVt3gsEBQm-blAnp5f89rh7iCnx02cpKVrKtM/edit?usp=sharing)
-
-[Code Reviews Checklist](https://docs.google.com/document/d/1-SVdTczDLEStjqhUg7EBT_IBvxsjPNTfWMYipSUsTwY/edit?usp=sharing)
-
-[Exploring a new codebase](https://github.com/CodeCoachJS/js_pro_kyle_simspon_app)
-
-[Github basics](https://www.loom.com/share/9ac01cffb6834ecea276d42619d704cf)
+[React with Typescript](https://github.com/CodeCoachJS/js_pro_e-com_with_typescript)
 
 ---
 
@@ -159,6 +145,28 @@ https://www.loom.com/share/5c8c6b6bc48d41ab953b8ece05cda08c
 [Debugging JS apps](https://www.loom.com/share/e1fd3ef1d934408893eb5a35a0ead560)
 
 [Debug a Github Actions pipeline](https://github.com/CodeCoachJS/node_express_starter/tree/something_is_wrong)
+
+---
+
+### First Day on the Job
+
+---
+
+[Using JIRA](https://www.loom.com/share/cc79ef5ace3040f695d94d5643fc89da)
+
+[Good Standups vs Bad StandUps](https://www.loom.com/share/f198c0956ed94e99b99a6c6e59f43acb)
+
+[How to estimate a feature](https://www.loom.com/share/4f9b512ca95e4cb8a8bd7f70cbbdd8c7)
+
+[Code Reviews video](https://www.loom.com/share/48f5ed99be604c2aa2aaa6b269d30670)
+
+[Code Reviews Challenge](https://docs.google.com/document/d/1WA5f5tbVt3gsEBQm-blAnp5f89rh7iCnx02cpKVrKtM/edit?usp=sharing)
+
+[Code Reviews Checklist](https://docs.google.com/document/d/1-SVdTczDLEStjqhUg7EBT_IBvxsjPNTfWMYipSUsTwY/edit?usp=sharing)
+
+[Exploring a new codebase](https://github.com/CodeCoachJS/js_pro_kyle_simspon_app)
+
+[Github basics](https://www.loom.com/share/9ac01cffb6834ecea276d42619d704cf)
 
 ---
 
