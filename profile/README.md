@@ -174,6 +174,8 @@ https://www.loom.com/share/5c8c6b6bc48d41ab953b8ece05cda08c
 
 ---
 
+[Beat Impostor Syndrome and Clarify your Goals](https://docs.google.com/document/d/1OpjXtJeQ93TGIz8z9u-p_lYNbhSbk32rPFPDecNMDyM/edit?usp=sharing)
+
 [LinkedIn Cheat Sheet](https://docs.google.com/document/u/0/d/1xsCCWGACPBBNett8yat4Ldq2zUKSCRhGHTsXfGQwcZo/edit)
 
 [What Should I Post On LinkedIn](https://docs.google.com/document/u/0/d/10K76aP0InsVZ-MDmN8CJQ9VWdyHXLPbImENYXNx6vs4/edit)
