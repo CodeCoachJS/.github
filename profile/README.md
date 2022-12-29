@@ -16,12 +16,6 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 ---
 
-# Please watch this
-
-https://www.loom.com/share/5c8c6b6bc48d41ab953b8ece05cda08c
-
----
-
 ## Learning Tracks ⬇️
 
 ---
