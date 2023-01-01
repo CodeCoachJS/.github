@@ -16,6 +16,17 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 ---
 
+## Your First Tasks
+
+---
+
+1. Join the `#members-only` channel on Slack
+2. Join the `#course-updates` channel on Slack
+
+These repos are updated fairly often for bug fixes, additional challenges and videos and those updates are alerted in the `#course-updates` channel
+
+---
+
 ## Learning Tracks ⬇️
 
 ---
@@ -72,13 +83,15 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 ---
 
-### Unit Testing
+### Unit Testing && e2e Testing
 
 ---
 
 [Intro to react-testing-library](https://github.com/CodeCoachJS/js_pro_react_testing_intro)
 
 [Add tests to an app](https://github.com/CodeCoachJS/user_table_needs_tests)
+
+[Add e2e tests to a Remix app](https://github.com/CodeCoachJS/js_pro_full_stack)
 
 ---
 
