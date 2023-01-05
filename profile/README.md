@@ -95,6 +95,14 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
+### Add eslint to a project
+
+---
+
+[Add eslint to a node/express project](https://github.com/CodeCoachJS/node_express_starter/tree/add_linter)
+
+---
+
 ### DSA
 
 ---
