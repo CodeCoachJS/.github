@@ -133,6 +133,14 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
+### Tame the Thundering Herd (NodeJS/Caching challenge)
+
+---
+
+[Thundering Herd system design problem using a cache](https://github.com/CodeCoachJS/node_express_starter/tree/stampeding_herd)
+
+---
+
 ### Create Your Own Library / NPM Challenges
 
 ---
