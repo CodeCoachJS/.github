@@ -35,9 +35,9 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
-[Form Challenge](https://docs.google.com/document/d/1jXUFr1fOmlnTAkKBabuawyeCoWz0MWCh-vXkgP3gA-Q/edit?usp=sharing)
+[Form Challenge - Beginner challenge](https://docs.google.com/document/d/1jXUFr1fOmlnTAkKBabuawyeCoWz0MWCh-vXkgP3gA-Q/edit?usp=sharing)
 
-[Vanilla JS Ecom Challenge](https://docs.google.com/document/d/1gchMW_M0xg8jwJJVL71I1H2IQMghuvvZgiKy9ssrSqg/edit?usp=sharing)
+[Vanilla JS Ecom Challenge - Beginner/Moderate challenge](https://docs.google.com/document/d/1gchMW_M0xg8jwJJVL71I1H2IQMghuvvZgiKy9ssrSqg/edit?usp=sharing)
 
 [JS fundamentals and beyond](https://github.com/CodeCoachJS/main_course) (This is where you probably want to start)
 
@@ -47,7 +47,7 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
-[Fix a slow ass site](https://github.com/CodeCoachJS/js_pro_slow_ass_site)
+[Fix a slow ass site and learn about core web vitals](https://github.com/CodeCoachJS/js_pro_slow_ass_site)
 
 ---
 
@@ -65,8 +65,6 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 [Ecom app with Redux needs fixing](https://github.com/CodeCoachJS/shopping_cart_with_redux)
 
-[NextJS with GraphQL and Github API](https://github.com/CodeCoachJS/js_pro_next_js_graphql)
-
 [Refactor a React app to increase performance using useCallback and useMemo](https://github.com/CodeCoachJS/js_pro_refactor_me)
 
 [Create a custom hook](https://github.com/CodeCoachJS/js_pro_custom_hooks)
@@ -83,7 +81,7 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
-### Unit Testing && e2e Testing
+### Unit Testing && e2e Testing with Cypress.io
 
 ---
 
@@ -91,7 +89,7 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 [Add tests to an app](https://github.com/CodeCoachJS/user_table_needs_tests)
 
-[Add e2e tests to a Remix app](https://github.com/CodeCoachJS/js_pro_full_stack)
+[Add e2e tests to a Remix app using Cypress](https://github.com/CodeCoachJS/js_pro_full_stack)
 
 ---
 
@@ -127,9 +125,9 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
-[Timeseries API](https://github.com/CodeCoachJS/js_pro_backend_timeseries_app.git)
+[React with Typescript - an intro to Typescript](https://github.com/CodeCoachJS/js_pro_e-com_with_typescript)
 
-[React with Typescript](https://github.com/CodeCoachJS/js_pro_e-com_with_typescript)
+[Timeseries API - Typescript on the backend](https://github.com/CodeCoachJS/js_pro_backend_timeseries_app.git)
 
 ---
 
@@ -137,7 +135,7 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
-[Thundering Herd system design problem using a cache](https://github.com/CodeCoachJS/node_express_starter/tree/stampeding_herd)
+[Thundering Herd system design problem using a cache](https://github.com/CodeCoachJS/node_express_starter/tree/stampeding_herd) [BETA]
 
 ---
 
