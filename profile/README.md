@@ -61,7 +61,7 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 [Fix a broken app using context API](https://github.com/CodeCoachJS/react_fix_me)
 
-[Stock tracker app needs fixing](https://github.com/CodeCoachJS/stock_app)
+[Stock tracker app using HighChartsJS needs fixing](https://github.com/CodeCoachJS/stock_app)
 
 [Ecom app with Redux needs fixing](https://github.com/CodeCoachJS/shopping_cart_with_redux)
 
