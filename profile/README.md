@@ -135,7 +135,7 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
-[Thundering Herd system design problem using a cache](https://github.com/CodeCoachJS/node_express_starter/tree/stampeding_herd) [BETA]
+[Thundering Herd system design problem using a cache](https://github.com/CodeCoachJS/node_express_starter/tree/stampeding_herd)
 
 ---
 
