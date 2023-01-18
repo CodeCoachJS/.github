@@ -35,19 +35,9 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
-[Form Challenge - Beginner challenge](https://docs.google.com/document/d/1jXUFr1fOmlnTAkKBabuawyeCoWz0MWCh-vXkgP3gA-Q/edit?usp=sharing)
+[JS fundamentals and interview prep](https://github.com/CodeCoachJS/main_course) (This is where you probably want to start)
 
-[Vanilla JS Ecom Challenge - Beginner/Moderate challenge](https://docs.google.com/document/d/1gchMW_M0xg8jwJJVL71I1H2IQMghuvvZgiKy9ssrSqg/edit?usp=sharing)
-
-[JS fundamentals and beyond](https://github.com/CodeCoachJS/main_course) (This is where you probably want to start)
-
----
-
-### Core Web Vitals
-
----
-
-[Fix a slow ass site and learn about core web vitals](https://github.com/CodeCoachJS/js_pro_slow_ass_site)
+[Exploring a new codebase with Kyle Simpson](https://github.com/CodeCoachJS/js_pro_kyle_simspon_app)
 
 ---
 
@@ -87,7 +77,7 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 [Intro to react-testing-library](https://github.com/CodeCoachJS/js_pro_react_testing_intro)
 
-[Add tests to an app](https://github.com/CodeCoachJS/user_table_needs_tests)
+[Add tests to a ReactJS app](https://github.com/CodeCoachJS/user_table_needs_tests)
 
 [Add e2e tests to a Remix app using Cypress](https://github.com/CodeCoachJS/js_pro_full_stack)
 
@@ -97,7 +87,7 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
-[Add eslint to a node/express project](https://github.com/CodeCoachJS/node_express_starter/tree/add_linter)
+[Add eslint to a node/express project to enforce code standards](https://github.com/CodeCoachJS/node_express_starter/tree/add_linter)
 
 ---
 
@@ -139,13 +129,11 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
-### Create Your Own Library / NPM Challenges
+### package.json blows up our pipeline!
 
 ---
 
-[NPM library starter kit](https://github.com/CodeCoachJS/js_pro_npm_library)
-
-[NPM package breaks production pipeline!](https://github.com/CodeCoachJS/js_pro_npm_front_end_app/tree/npm_gone_wrong)
+[Explore package.json and Github pipelines by debugging a pipeline!](https://github.com/CodeCoachJS/js_pro_npm_front_end_app/tree/npm_gone_wrong)
 
 ---
 
@@ -169,6 +157,14 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
+### Core Web Vitals
+
+---
+
+[Fix a slow ass site and learn about core web vitals](https://github.com/CodeCoachJS/js_pro_slow_ass_site)
+
+---
+
 ### First Day on the Job
 
 ---
@@ -184,8 +180,6 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 [Code Reviews Challenge](https://docs.google.com/document/d/1WA5f5tbVt3gsEBQm-blAnp5f89rh7iCnx02cpKVrKtM/edit?usp=sharing)
 
 [Code Reviews Checklist](https://docs.google.com/document/d/1-SVdTczDLEStjqhUg7EBT_IBvxsjPNTfWMYipSUsTwY/edit?usp=sharing)
-
-[Exploring a new codebase](https://github.com/CodeCoachJS/js_pro_kyle_simspon_app)
 
 [Github basics](https://www.loom.com/share/9ac01cffb6834ecea276d42619d704cf)
 
