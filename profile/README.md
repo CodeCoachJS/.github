@@ -137,6 +137,14 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
+### Make your own NPM library
+
+---
+
+[Create a library and publish to npm](https://github.com/CodeCoachJS/js_pro_npm_library)
+
+---
+
 ### Side Project Template
 
 ---
