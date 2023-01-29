@@ -129,6 +129,16 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
+### AWS Lambdas
+
+---
+
+[Deploy your own lambda function on AWS](https://github.com/CodeCoachJS/js_pro_backend_timeseries_app/tree/js_pro_lambda_school)
+
+**Pre-requisite:** [Timeseries API - Typescript on the backend](https://github.com/CodeCoachJS/js_pro_backend_timeseries_app.git)
+
+---
+
 ### package.json blows up our pipeline!
 
 ---
