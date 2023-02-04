@@ -59,6 +59,8 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 [Create a custom hook](https://github.com/CodeCoachJS/js_pro_custom_hooks)
 
+[Fix NextJS app using Github Graphql API](https://github.com/CodeCoachJS/js_pro_next_js_graphql/tree/main)
+
 ---
 
 ### Redux and Webpack
@@ -80,6 +82,8 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 [Add tests to a ReactJS app](https://github.com/CodeCoachJS/user_table_needs_tests)
 
 [Add e2e tests to a Remix app using Cypress](https://github.com/CodeCoachJS/js_pro_full_stack)
+
+[Testing React components using Apollo/Graphql](https://github.com/CodeCoachJS/js_pro_next_js_graphql/tree/app_needs_tests)
 
 ---
 
