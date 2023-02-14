@@ -211,6 +211,8 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
+[Job Site List](https://docs.google.com/spreadsheets/d/1O2om9Zqdvtj76ChYetzOlcBjDHqAdZnybTJ7g0HkB5k/edit?usp=sharing)
+
 [Beat Impostor Syndrome and Clarify your Goals](https://docs.google.com/document/d/1OpjXtJeQ93TGIz8z9u-p_lYNbhSbk32rPFPDecNMDyM/edit?usp=sharing)
 
 [LinkedIn Cheat Sheet](https://docs.google.com/document/u/0/d/1xsCCWGACPBBNett8yat4Ldq2zUKSCRhGHTsXfGQwcZo/edit)
