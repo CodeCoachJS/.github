@@ -205,6 +205,8 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 [Github basics](https://www.loom.com/share/9ac01cffb6834ecea276d42619d704cf)
 
+[Setting up your terminal using zsh like a pro](https://www.loom.com/share/1e8936fb12594d18a3d42f813ac01bea)
+
 ---
 
 ### LinkedIn and Career Corner
