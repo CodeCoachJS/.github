@@ -125,6 +125,14 @@ These repos are updated fairly often for bug fixes, additional challenges and vi
 
 ---
 
+### Websockets to track Crypto Trades
+
+---
+
+[Fix our crypto trading app and get introduced to Vitest](https://github.com/CodeCoachJS/js_pro_websockets)
+
+---
+
 ### Tame the Thundering Herd (NodeJS/Caching challenge)
 
 ---
