@@ -8,22 +8,13 @@ There are no answer sheets here or watch and type tutorials. What you will find 
 
 **You will find instructions in the README.md** files of each of these projects as well as additonal challenges like recording a video of a difficult concept. You'd be surprised how much you will learn from recording yourself attempting to explain something you think you know 😉.
 
-**Please reach out over Slack when (not if) you run into issues or are stuck.**
-
 If you find an issue or have a suggestion to improve a challenge please email me at brianjeney83@gmail.com or simply make a pull request.
 
 **Good luck and happy coding!**
 
 ---
 
-## Your First Tasks
-
----
-
-1. Join the `#members-only` channel on Slack
-2. Join the `#course-updates` channel on Slack
-
-These repos are updated fairly often for bug fixes, additional challenges and videos and those updates are alerted in the `#course-updates` channel
+**These repos are updated fairly often for bug fixes, additional challenges and videos and those updates are alerted via email but please make sure to do a `git pull` when working on these repos to ensure you have the most up to date version.**
 
 ---
 
