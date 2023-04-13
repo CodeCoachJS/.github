@@ -110,7 +110,7 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 ---
 
-[Simple Node/Express API with Typescript](https://github.com/CodeCoachJS/node_express_starter/tree/typescript_version)
+[Simple Node/Express API with Typescript](https://github.com/CodeCoachJS/node_express_starter/tree/typescript_version) [BETA]
 
 [React with Typescript - an intro to Typescript](https://github.com/CodeCoachJS/js_pro_e-com_with_typescript)
 
