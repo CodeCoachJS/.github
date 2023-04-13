@@ -106,13 +106,23 @@ If you find an issue or have a suggestion to improve a challenge please email me
 
 ---
 
-## Typescript
+### Typescript
 
 ---
+
+[Simple Node/Express API with Typescript](https://github.com/CodeCoachJS/node_express_starter/tree/typescript_version)
 
 [React with Typescript - an intro to Typescript](https://github.com/CodeCoachJS/js_pro_e-com_with_typescript)
 
 [Timeseries API - Typescript on the backend](https://github.com/CodeCoachJS/js_pro_backend_timeseries_app.git)
+
+---
+
+### Using Webworkers
+
+---
+
+[Transform an image with a webworker](https://github.com/CodeCoachJS/js_pro_web_workers/tree/master)
 
 ---
 
